@@ -42,9 +42,9 @@
 $ldapServer = '10.0.4.66';
 $cadenaBusqLDAP = 'ou=personas,dc=unicordoba,dc=edu,dc=co';
 $campoBusqLDAP = 'uid';
-$adminLDAP = 'cn=faridespaez,ou=personas,dc=unicordoba,dc=edu,dc=co';
-$paswLDAP='34987793';
-$username="efuentesfabra";
+$adminLDAP = 'cn=usuarionoexiste,ou=personas,dc=unicordoba,dc=edu,dc=co';
+$paswLDAP='g2245g4g345';
+$username="usuarionoexiste";
 
 if($connect=ldap_connect($ldapServer)){ 
 

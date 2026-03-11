@@ -1,4 +1,5 @@
 # Orfeo 6.2 - skinatech
+#  Fork used for educational/research purpose. Not Inteneded for Produsage.
 
 ### Versión 1.0
 * Proyecto: Ultima versión de Orfeo 6.2, versión de php >7.3
